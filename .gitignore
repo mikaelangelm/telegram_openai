@@ -1,0 +1,4 @@
+*.session
+*.env
+*.ipynb
+*.ipynb_checkpoints
